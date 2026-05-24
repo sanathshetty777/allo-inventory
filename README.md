@@ -3,7 +3,7 @@
 Multi-warehouse inventory reservation system built with Next.js 14, Prisma, and PostgreSQL.
 
 ## Live URL
-https://allo-inventory.vercel.app
+https://allo-inventory-eight.vercel.app
 
 ## GitHub
 https://github.com/sanathshetty777/allo-inventory
